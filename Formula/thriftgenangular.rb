@@ -2,8 +2,8 @@ require 'formula'
 
 class Thriftgenangular < Formula
   homepage ''
-  url 'https://github.com/davearata/twitter-commons/releases/download/v0.1.4/thriftGenAngularService.pex-0.1.4.zip'
-  sha1 '1e69daf7704a64ece3b6880f737e17ce21bd19e7'
+  url 'https://github.com/davearata/twitter-commons/releases/download/v0.1.5/thriftGenAngularService.pex-0.1.5.zip'
+  sha1 '0da77642f140355bdc2ef4609908f5262555312e'
 
   # depends_on 'cmake' => :build
   depends_on :python
